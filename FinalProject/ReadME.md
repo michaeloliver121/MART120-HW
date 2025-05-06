@@ -19,3 +19,10 @@ I will probably work on this for a bit every day to be able to make the time cru
 Like I said above, I have not started yet since I had a major surgery and have been in recovery since then. I should be up and running again by hopefull wednesday, but regardless I'll be recovering for about a month or so living off of meds for the time being.
 
 I will keep this updated with any new info in the timeline if stuff changes. 
+
+- Drew celestial bodies in Procreate.
+- Took them into Photoshop and removed backgrounds for PNG.
+- learned more about arrays
+- learned more about editing array elements like shifting, classes, and constructors (game changer)
+- learned more but struggled a bit with tooltips. I would have liked to cover this a bit more in class if possible.
+- Coolest part to me was drawing my own images and importing them into this. Something weirdly engaging/fulfilling about bringing everything together.
