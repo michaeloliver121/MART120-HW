@@ -21,7 +21,7 @@ function preload() {
   sunImg = loadImage("assets/sun.png");
   let names = ["mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune", "moon"];
   for (let name of names) {
-    planetImgs[name] = loadImage(`assets/${name}.PNG`);
+    planetImgs[name] = loadImage(`assets/${name}.png`);
   }
 }
 
