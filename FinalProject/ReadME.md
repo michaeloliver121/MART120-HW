@@ -26,3 +26,7 @@ I will keep this updated with any new info in the timeline if stuff changes.
 - learned more about editing array elements like shifting, classes, and constructors (game changer)
 - learned more but struggled a bit with tooltips. I would have liked to cover this a bit more in class if possible.
 - Coolest part to me was drawing my own images and importing them into this. Something weirdly engaging/fulfilling about bringing everything together.
+
+This ended up being a lot more difficult than I thought it would be, but I ended up having to learn a lot on my own. I realized there were a lot of different things we definitely did not cover in this class, but made my life a lot easier like arrays and classes. As far as this project went, I am really happy with it even though it is a bit simple to look at. The behind the scenes took me ages and I think I have a better understanding of js because of it. I did want to include some sort of tooltips or wiki page link with the planets, but I realized that that was kind of difficult due to the drawing and the zoom functions that I had. I think it works as a diagram rather than necessarily informational like I originally intended. That being said, I did enjoy the art and I like the finished product.
+
+Github is apparently terrible with file formats and case sensitivity. For whatever reason I was having a terrible time uploading PNGs versus pngs... which doesn't make much sense to me, but it ended up working out? As far as it looks, it is working despite the audio not functioning properly on a Chrome browser.
